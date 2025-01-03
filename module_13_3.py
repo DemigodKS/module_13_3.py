@@ -4,7 +4,7 @@ import asyncio
 
 
 #записываем ключ
-api = "7230751067:AAF4T2f8bkFK_iFPC9FfkK8UHPRT8wySgg8"
+api = " "
 bot = Bot(token = api)
 dp = Dispatcher(bot, storage = MemoryStorage())
 
